@@ -3,6 +3,8 @@ this is the second line
 this is the third line
 thiis is the forth line
 this is the five line
+<<<<<<< HEAD
 this changed on win
+=======
 this is the dev branch revised
-
+>>>>>>> 3be802c39c38d03cc247a8b554c96e8756309765
